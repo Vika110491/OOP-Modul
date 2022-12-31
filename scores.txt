@@ -1,0 +1,45 @@
+Name: cxas |score: 1
+Name: cxas |score: 2
+Name: cxas |score: 3
+Name: cxas |score: 3
+Name: daasd |score: 0
+Name: daasd |score: 0
+Name: daasd |score: 0
+Name: daasd |score: 0
+Name: kolya |score: 1
+Name: kolya |score: 1
+Name: kolya |score: 2
+Name: kolya |score: 2
+Name: vita |score: 0
+Name: vita |score: 1
+Name: vita |score: 1
+Name: vita |score: 2
+Name: Jeka |score: 2
+Name: Jeka |score: 3
+Name: Kostya |score: 0
+Name: Kostya |score: 1
+Name: Kostya |score: 2
+Name: Kostya |score: 2
+Name: reno |score: 1
+Name: reno |score: 2
+Name: reno |score: 3
+Name: reno |score: 4
+Name: Lilya |score: 0
+Name: Lilya |score: 1
+Name: Lilya |score: 2
+Name: Lilya |score: 2
+Name: ril |score: 0
+Name: ril |score: 0
+Name: ril |score: 1
+Name: ril |score: 2
+Name: Her |score: 0
+Name: Her |score: 0
+Name: Her |score: 1
+Name: Her |score: 1
+Name: Bodya |score: 3
+Name: Bodya |score: 4
+Name: Bodya |score: 4
+Name:  |score: 1
+Name:  |score: 2
+Name:  |score: 4
+Name:  |score: 4
