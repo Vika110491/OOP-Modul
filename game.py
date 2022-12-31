@@ -2,6 +2,17 @@ import game_exceptions
 import models
 import settings
 
+
+"""
+Містить блок на перевірку імені модуля (main)
+В середині if блок try/except.
+try запускає функцію play()
+except обробляє два винятки:
+GameOver - виводить на екран повідомлення про завершення гри, 
+записує результат в таблицю рекордів.
+KeyboardInterrupt - pass.
+finally виводить на екран "Good bye!"
+"""
 def exit():
     pass
 
