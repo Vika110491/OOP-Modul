@@ -7,7 +7,10 @@ class KeyboardInterrupt(Exception):
 
 
 class GameOver(Exception):
-    pass
+    """
+    клас GameOver - унаслідований від Exception.
+    В класі має бути реалізований метод для збереження фінального рахунку гри по її завершенню
+    """
 
 
 class EnemyDown(Exception):
